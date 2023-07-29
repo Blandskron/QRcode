@@ -47,7 +47,7 @@ Example
 import qrcode
 
 # Define the URL of the document
-document_url = "https://drive.google.com/file/d/1U31wT7suVgbBD80GCGpdZ7Aty-CgewJK/view?usp=sharing"
+document_url = "###"
 
 # Create the QR code
 qr = qrcode.QRCode(
